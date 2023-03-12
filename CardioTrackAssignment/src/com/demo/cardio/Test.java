@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Scanner;
 //In this program, we have to provide file names that we want to be classified
 public class Test {
-
+	//first commit
 	static Map<String, List<String>> map = new HashMap<>();
 
 	static List<String> earthList = new ArrayList<>();
